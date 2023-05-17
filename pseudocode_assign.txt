@@ -1,0 +1,40 @@
+Pseudocode:
+1- Input the age of the voter and check whether he is eligible to vote based on the age older than 18 years?
+
+Input-enter the age.
+Output-eligible or not.
+1-Procedure to check the eligibility.
+2-read the age.
+3-check if the age > 18.
+4-print "eligible".
+5-else.
+6-print "not eligible".
+7-end procedure.
+
+2. Check your Admission possibility to your dream College based on your academic marks? 
+
+Input-enter the mark.
+Output-Admission grant or not.
+1-Procedure to check the admission grant or not.
+2-read the mark.
+3-check the mark percentage greater than 80%.
+4-print "admission grant".
+5-else.
+6-print "admission not granted".
+7-end procedutre.
+
+
+3. Find the sum and average of three numbers?
+
+Input-enter the numbers.
+output-sum & average of three number.
+1-Procedure to check the sum and average of three numbers.
+2-read the numbers.
+3-To check the sum of three number, sum the three numbers and initialize the variable as sum.
+4-To check the average, sum value /3 and initialize variable avg.
+5-print sum.
+6-print avg.
+7-End procedure.
+ 
+
+
